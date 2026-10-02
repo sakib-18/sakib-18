@@ -7,10 +7,10 @@
 <a href="https://github.com/sakib-18">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/fatin18">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:fatinsakib786@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -112,9 +112,6 @@ Deep-learning research work focused on gastrointestinal endoscopic image classif
 
 **Stack:** `Python` `TensorFlow` `Keras` `CNN`
 
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/PROJECT_PAGE-C4B5FD?style=for-the-badge&logo=github&logoColor=0D1117"/>
-</a>
 
 </td>
 </tr>
